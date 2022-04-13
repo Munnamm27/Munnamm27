@@ -1,6 +1,6 @@
 ## Hi there
 - 👋 Hi, I’m @Munnamm27
-- 👀 I’m love data science
+- 👀 I love data science
 - 🌱 I’m currently learning model deployment
 - 💞️ ask me about tensorflow/DNN
 - 📫 How to reach me: Email
