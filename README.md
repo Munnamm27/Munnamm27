@@ -1,8 +1,8 @@
 ## Hi there
 - 👋 Hi, I’m @Munnamm27
 - 👀 I love data science
-- 🌱 I’m currently learning model deployment
-- 💞️ ask me about tensorflow/DNN
+- 🌱 I’m currently learning MLOPs
+- 💞️ ask me about tensorflow/DNN,Plotly-Dash
 - 📫 How to reach me: Email
 <!---
 Munnamm27/Munnamm27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 - NLP
 - tensorflow(keras)
 - flask
+- Plotly Dash
 
 
 ## Publications
