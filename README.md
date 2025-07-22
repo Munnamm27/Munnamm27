@@ -1,8 +1,8 @@
 ## Hi there
 - 👋 Hi, I’m @Munnamm27
-- 👀 I love data science
+- 👀 I love Data Science, LLM
 - 🌱 I’m currently learning MLOPs
-- 💞️ ask me about tensorflow/DNN,Plotly-Dash
+- 💞️ Ask me about LLM, FastAPI, CI/CD
 - 📫 How to reach me: Email
 <!---
 Munnamm27/Munnamm27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
