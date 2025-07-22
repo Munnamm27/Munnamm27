@@ -11,15 +11,16 @@ You can click the Preview link to take a look at your changes.
 ## My Stack
 - EDA
 - SQL
-- python
+- Python
 - Machine Learning
 - DNN
-- NLP
-- tensorflow(keras)
-- flask
+- LLM/NLP
+- Tensorflow/Pytorch
 - Plotly Dash
 - FastAPI
 - Docker
+- CI/CD
+- AWS
 
 
 ## Publications
