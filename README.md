@@ -1,7 +1,6 @@
 ## Hi there
 - 👋 Hi, I’m @Munnamm27
 - 👀 I love Data Science, LLM
-- 🌱 I’m currently learning MLOPs
 - 💞️ Ask me about LLM, FastAPI, CI/CD
 - 📫 How to reach me: Email
 <!---
