@@ -67,21 +67,11 @@ I'm a **Data Scientist and Machine Learning Engineer** with a passion for **Larg
    📍 2021, pp. 1-6  
    🔗 [View Publication](https://ieeexplore.ieee.org/)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munnamm27&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munnamm27&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ## 🎯 What I'm Working On
 
-- 🔍 Exploring advanced prompt engineering techniques for LLMs
-- 🚀 Building scalable FastAPI applications for ML model serving
-- ☁️ Implementing MLOps best practices on AWS
+- 🔍 Exploring advanced RAG techniques for LLMs
+- 🚀 Building scalable FastAPI applications for ML model and AI Application Serving
 - 📝 Contributing to open-source AI/ML projects
 
 ## 🤝 Let's Connect!
