@@ -3,7 +3,7 @@
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/Munnamm27?style=social)](https://github.com/Munnamm27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/munnamm27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/munnamm27](https://www.linkedin.com/in/mahmud-hasan-munna-7b918817b/))
 
 </div>
 
@@ -15,7 +15,7 @@ I'm a **Data Scientist and Machine Learning Engineer** with a passion for **Larg
 - 💡 **Currently Working On:** Advanced LLM applications and deployment strategies
 - 🌱 **Learning:** State-of-the-art AI architectures and cloud-native ML systems
 - 💬 **Ask Me About:** LLM fine-tuning, FastAPI development, CI/CD pipelines, AWS deployments
-- 📫 **Reach Me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/munnamm27)
+- 📫 **Reach Me:** [Email](mailto:munna.ete15@gmail.com) | [LinkedIn]([https://linkedin.com/in/munnamm27](https://www.linkedin.com/in/mahmud-hasan-munna-7b918817b/))
 
 ## ��️ Tech Stack
 
