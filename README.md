@@ -31,28 +31,9 @@ I'm a **Data Scientist and Machine Learning Engineer** with a passion for **Larg
 
 </div>
 
-<!-- Overall stats + Top languages — updates live -->
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munnamm27&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&icon_color=639922&title_color=1a1a1a&text_color=57606a)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munnamm27&layout=compact&hide_border=true&theme=default&title_color=1a1a1a&text_color=57606a&langs_count=8)
 
-</div>
 
-<!-- Contribution activity graph — updates live -->
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Munnamm27&hide_border=true&area=true&area_color=C0DD97&line=639922&point=27500A&color=57606a&bg_color=ffffff&title_color=1a1a1a)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<!-- Trophies — updates live -->
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Munnamm27&no-frame=true&no-bg=true&margin-w=8&column=7&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
