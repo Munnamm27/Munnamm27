@@ -1,23 +1,62 @@
 # Hi there, I'm M. H. Munna 👋
 
 <div align="center">
-  
+
 [![GitHub followers](https://img.shields.io/github/followers/Munnamm27?style=social)](https://github.com/Munnamm27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmud%20Hasan%20Munna-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmud-hasan-munna-7b918817b/)
+[![Website](https://img.shields.io/badge/Website-munna.com.bd-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://munna.com.bd)
+[![Email](https://img.shields.io/badge/Email-munna.ete15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munna.ete15@gmail.com)
 
 </div>
+
+---
 
 ## 🚀 About Me
 
 I'm a **Data Scientist and Machine Learning Engineer** with a passion for **Large Language Models (LLMs)** and **AI-driven solutions**. I love building scalable applications that leverage cutting-edge AI technologies to solve real-world problems. My research focuses on Natural Language Processing, with published work in sentiment analysis and content classification.
 
 - 🔬 **Research Interests:** LLMs, NLP, Deep Learning, MLOps
-- 💡 **Currently Working On:** Advanced LLM applications and deployment strategies
+- 💡 **Currently Working On:** Advanced RAG techniques and LLM deployment strategies
 - 🌱 **Learning:** State-of-the-art AI architectures and cloud-native ML systems
 - 💬 **Ask Me About:** LLM fine-tuning, FastAPI development, CI/CD pipelines, AWS deployments
-- 📫 **Reach Me:** [Email](mailto:munna.ete15@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mahmud-hasan-munna-7b918817b/) | [Website](https://munna.com.bd)
 
-## ��️ Tech Stack
+---
+
+## 📊 GitHub Activity
+
+<!-- Current streak · Longest streak · Total contributions — updates live -->
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Munnamm27&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=639922&ring=639922&currStreakLabel=639922&sideLabels=639922&stroke=00000000)](https://git.io/streak-stats)
+
+</div>
+
+<!-- Overall stats + Top languages — updates live -->
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munnamm27&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&icon_color=639922&title_color=1a1a1a&text_color=57606a)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munnamm27&layout=compact&hide_border=true&theme=default&title_color=1a1a1a&text_color=57606a&langs_count=8)
+
+</div>
+
+<!-- Contribution activity graph — updates live -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Munnamm27&hide_border=true&area=true&area_color=C0DD97&line=639922&point=27500A&color=57606a&bg_color=ffffff&title_color=1a1a1a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!-- Trophies — updates live -->
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Munnamm27&no-frame=true&no-bg=true&margin-w=8&column=7&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 ### Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -44,35 +83,33 @@ I'm a **Data Scientist and Machine Learning Engineer** with a passion for **Larg
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=flat)
 
-### Core Competencies
-- 📊 **Exploratory Data Analysis (EDA)** - Uncovering insights from complex datasets
-- 🤖 **Machine Learning & Deep Neural Networks** - Building and deploying predictive models
-- 💬 **Large Language Models & NLP** - Fine-tuning and deploying LLMs for various applications
-- 📈 **Data Visualization** - Creating interactive dashboards with Plotly Dash
-- 🔄 **MLOps** - End-to-end ML pipeline automation and deployment
+---
 
 ## 📚 Publications
 
 ### Conference Papers
 
-1. **M. H. Munna**, M. R. I. Rifat and A. S. M. Badrudduza  
-   *"Sentiment Analysis and Product Review Classification in E-commerce Platform"*  
-   📄 2020 23rd International Conference on Computer and Information Technology (ICCIT)  
-   📍 DHAKA, Bangladesh, 2020, pp. 1-6  
+1. **M. H. Munna**, M. R. I. Rifat and A. S. M. Badrudduza
+   *"Sentiment Analysis and Product Review Classification in E-commerce Platform"*
+   📄 2020 23rd International Conference on Computer and Information Technology (ICCIT)
+   📍 DHAKA, Bangladesh, 2020, pp. 1-6
    🔗 [View Publication](https://ieeexplore.ieee.org/)
 
-2. **M. H. Munna** and M. S. Hossen  
-   *"Identification of Clickbait in Video Sharing Platforms"*  
-   📄 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI)  
-   📍 2021, pp. 1-6  
+2. **M. H. Munna** and M. S. Hossen
+   *"Identification of Clickbait in Video Sharing Platforms"*
+   📄 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI)
+   📍 2021, pp. 1-6
    🔗 [View Publication](https://ieeexplore.ieee.org/)
 
+---
 
 ## 🎯 What I'm Working On
 
 - 🔍 Exploring advanced RAG techniques for LLMs
-- 🚀 Building scalable FastAPI applications for ML model and AI Application Serving
+- 🚀 Building scalable FastAPI applications for ML model and AI application serving
 - 📝 Contributing to open-source AI/ML projects
+
+---
 
 ## 🤝 Let's Connect!
 
